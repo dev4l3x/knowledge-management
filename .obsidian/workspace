@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "50a5c251f291eb5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c92da21092f0038",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23643353a77323f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf0abcc33344c9fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa8c9983185f635b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "53adf73a481e1b64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6920a6980f571293",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed16460e22b6d547",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "900cf8f2961bdea4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9c92da21092f0038",
+  "lastOpenFiles": [
+    "SlipBox/productivity/how to take smart notes/Beneficios de usar el metodo Zetteltasken.md",
+    "SlipBox/productivity/how to take smart notes/Literature notes.md",
+    "SlipBox/productivity/how to take smart notes/Procesar literature y fleeting notes.md",
+    "SlipBox/productivity/how to take smart notes/Redactar posts para solidificar conocimiento.md",
+    "SlipBox/productivity/how to take smart notes/Punto de entrada en notas.md",
+    "SlipBox/productivity/how to take smart notes/Permanent notes.md",
+    "SlipBox/productivity/how to take smart notes/SlipBox.md",
+    "SlipBox/productivity/how to take smart notes/Fleeting notes.md"
+  ]
+}
