@@ -1,17 +1,6 @@
 # {{Title}}
 
 
-
-
-
-
-## Questions
-
-
-
-
-
-
 # References
 
 

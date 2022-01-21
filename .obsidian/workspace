@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "9c92da21092f0038",
+        "id": "4f92f9d4ad456950",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SlipBox/productivity/how to take smart notes/hacer procesos para reducir la toma de decisiones.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -49,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6920a6980f571293",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SlipBox/productivity/how to take smart notes/hacer procesos para reducir la toma de decisiones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9c92da21092f0038",
+  "active": "4f92f9d4ad456950",
   "lastOpenFiles": [
-    "SlipBox/productivity/how to take smart notes/Beneficios de usar el metodo Zetteltasken.md",
-    "SlipBox/productivity/how to take smart notes/Literature notes.md",
-    "SlipBox/productivity/how to take smart notes/Procesar literature y fleeting notes.md",
-    "SlipBox/productivity/how to take smart notes/Redactar posts para solidificar conocimiento.md",
-    "SlipBox/productivity/how to take smart notes/Punto de entrada en notas.md",
-    "SlipBox/productivity/how to take smart notes/Permanent notes.md",
+    "SlipBox/productivity/how to take smart notes/hacer procesos para reducir la toma de decisiones.md",
+    "SlipBox/productivity/how to take smart notes/como tener más motivación.md",
+    "SlipBox/productivity/how to take smart notes/hacer el proceso gratificante.md",
+    "SlipBox/productivity/how to take smart notes/El Inbox.md",
+    "SlipBox/productivity/how to take smart notes/Liberar memoria a corto plazo.md",
+    "SlipBox/20220121080.md",
     "SlipBox/productivity/how to take smart notes/SlipBox.md",
-    "SlipBox/productivity/how to take smart notes/Fleeting notes.md"
+    "SlipBox/productivity/how to take smart notes/Como recordar información a largo plazo.md",
+    "templates/Template note.md",
+    "SlipBox/productivity/how to take smart notes/Ser un maestro sobre un tema.md"
   ]
 }
