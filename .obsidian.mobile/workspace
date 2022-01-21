@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "96659e281e6d4b93",
+    "id": "d66c1ae965396166",
     "type": "split",
     "children": [
       {
-        "id": "2a7eca9f79dad2ba",
+        "id": "e7ff072f42805ee8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SlipBox/productivity/how to take smart notes/Liberar memoria a corto plazo.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -54,6 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "SlipBox/productivity/how to take smart notes/Liberar memoria a corto plazo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -67,6 +71,8 @@
     ],
     "currentTab": 0
   },
-  "active": "2a7eca9f79dad2ba",
-  "lastOpenFiles": []
+  "active": "e7ff072f42805ee8",
+  "lastOpenFiles": [
+    "SlipBox/productivity/how to take smart notes/Liberar memoria a corto plazo.md"
+  ]
 }
