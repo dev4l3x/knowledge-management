@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SlipBox/productivity/how to take smart notes/hacer procesos para reducir la toma de decisiones.md",
+            "file": "SlipBox/implementing ddd/Supporting subdomain.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6920a6980f571293",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlipBox/productivity/how to take smart notes/hacer procesos para reducir la toma de decisiones.md",
+                "file": "SlipBox/implementing ddd/Supporting subdomain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "4f92f9d4ad456950",
   "lastOpenFiles": [
+    "SlipBox/implementing ddd/Supporting subdomain.md",
+    "SlipBox/implementing ddd/Subdominio.md",
+    "SlipBox/implementing ddd/Generic subdomain.md",
+    "SlipBox/implementing ddd/Dominio.md",
+    "SlipBox/implementing ddd/Core domain.md",
+    "SlipBox/implementing ddd/Bounded Context.md",
+    "SlipBox/productivity/how to take smart notes/Beneficios de usar el metodo Zetteltasken.md",
     "SlipBox/productivity/how to take smart notes/hacer procesos para reducir la toma de decisiones.md",
     "SlipBox/productivity/how to take smart notes/como tener más motivación.md",
-    "SlipBox/productivity/how to take smart notes/hacer el proceso gratificante.md",
-    "SlipBox/productivity/how to take smart notes/El Inbox.md",
-    "SlipBox/productivity/how to take smart notes/Liberar memoria a corto plazo.md",
-    "SlipBox/20220121080.md",
-    "SlipBox/productivity/how to take smart notes/SlipBox.md",
-    "SlipBox/productivity/how to take smart notes/Como recordar información a largo plazo.md",
-    "templates/Template note.md",
-    "SlipBox/productivity/how to take smart notes/Ser un maestro sobre un tema.md"
+    "SlipBox/productivity/how to take smart notes/hacer el proceso gratificante.md"
   ]
 }
