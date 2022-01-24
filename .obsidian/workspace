@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SlipBox/implementing ddd/Supporting subdomain.md",
+            "file": "SlipBox/refactoring/Two hats refactor.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlipBox/implementing ddd/Supporting subdomain.md",
+                "file": "SlipBox/refactoring/Two hats refactor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "4f92f9d4ad456950",
   "lastOpenFiles": [
+    "SlipBox/refactoring/Two hats refactor.md",
+    "SlipBox/refactoring/Cuando no refactorizar.md",
+    "SlipBox/refactoring/Porque se refactoriza.md",
+    "SlipBox/refactoring/Como se lleva a cabo el refactor.md",
+    "SlipBox/refactoring/Refactorización.md",
+    "SlipBox/implementing ddd/Context map.md",
     "SlipBox/implementing ddd/Supporting subdomain.md",
     "SlipBox/implementing ddd/Subdominio.md",
     "SlipBox/implementing ddd/Generic subdomain.md",
-    "SlipBox/implementing ddd/Dominio.md",
-    "SlipBox/implementing ddd/Core domain.md",
-    "SlipBox/implementing ddd/Bounded Context.md",
-    "SlipBox/productivity/how to take smart notes/Beneficios de usar el metodo Zetteltasken.md",
-    "SlipBox/productivity/how to take smart notes/hacer procesos para reducir la toma de decisiones.md",
-    "SlipBox/productivity/how to take smart notes/como tener más motivación.md",
-    "SlipBox/productivity/how to take smart notes/hacer el proceso gratificante.md"
+    "SlipBox/implementing ddd/Dominio.md"
   ]
 }
