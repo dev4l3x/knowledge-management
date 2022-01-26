@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SlipBox/productivity/how to take smart notes/Liberar memoria a corto plazo.md",
-            "mode": "preview"
+            "file": "SlipBox/refactoring/Bad Smell Feature Envy.md",
+            "mode": "source"
           }
         }
       }
@@ -57,7 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "SlipBox/productivity/how to take smart notes/Liberar memoria a corto plazo.md",
+            "file": "SlipBox/refactoring/Bad Smell Feature Envy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -73,6 +73,15 @@
   },
   "active": "e7ff072f42805ee8",
   "lastOpenFiles": [
+    "SlipBox/refactoring/Bad Smell Feature Envy.md",
+    "SlipBox/refactoring/Bad Smell Shotgun Surgery.md",
+    "SlipBox/refactoring/Bad Smell Divergent Change.md",
+    "SlipBox/refactoring/Bad smell datos mutables.md",
+    "SlipBox/refactoring/Problema con los datos globales.md",
+    "SlipBox/refactoring/Datos globales.md",
+    "SlipBox/refactoring/Muchos parámetros.md",
+    "SlipBox/refactoring/Función larga.md",
+    "SlipBox/refactoring/Bad Smell.md",
     "SlipBox/productivity/how to take smart notes/Liberar memoria a corto plazo.md"
   ]
 }
