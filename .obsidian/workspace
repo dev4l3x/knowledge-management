@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SlipBox/refactoring/bad-smells/Bad Smell Middleman.md",
+            "file": "SlipBox/refactoring/refactorings/Refactoring Introduce parameter object.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlipBox/refactoring/bad-smells/Bad Smell Middleman.md",
+                "file": "SlipBox/refactoring/refactorings/Refactoring Introduce parameter object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "4f92f9d4ad456950",
   "lastOpenFiles": [
-    "SlipBox/refactoring/bad-smells/Bad Smell Middleman.md",
-    "SlipBox/refactoring/bad-smells/Bad Smell Data classes.md",
-    "Ley de Demeter.md",
-    "SlipBox/refactoring/bad-smells/Bad Smell Message Chains.md",
-    "SlipBox/refactoring/bad-smells/Datos globales.md",
-    "SlipBox/refactoring/bad-smells/Bad Smell Speculative Generality.md",
-    "SlipBox/refactoring/bad-smells/Bad Smell Data Clumps.md",
-    "SlipBox/refactoring/bad-smells/Bad Smell Loops.md",
-    "SlipBox/refactoring/bad-smells/Bad Smell Instrucciones condicionales repetidas.md",
-    "SlipBox/refactoring/bad-smells/Bad Smell Primitive obsession.md"
+    "SlipBox/refactoring/refactorings/Refactoring Introduce parameter object.md",
+    "SlipBox/refactoring/refactorings/Refactoring Replace type code with subclasses.md",
+    "SlipBox/refactoring/refactorings/Refactoring Replace function with Command.md",
+    "SlipBox/refactoring/refactorings/Refactoring Replace constructor with factory function.md",
+    "SlipBox/refactoring/refactorings/Refactoring Remove flag argument.md",
+    "SlipBox/refactoring/refactorings/Refactoring Separate query from modifier.md",
+    "SlipBox/refactoring/refactorings/Refactoring Split Loop.md",
+    "SlipBox/refactoring/bad-smells/Bad Smell Divergent Change.md",
+    "SlipBox/refactoring/refactorings/Refactoring Encapsulate Variable.md",
+    "SlipBox/refactoring/bad-smells/Bad Smell Comentarios.md"
   ]
 }
