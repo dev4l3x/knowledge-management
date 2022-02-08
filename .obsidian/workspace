@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SlipBox/Networking/Socket.md",
+            "file": "SlipBox/Networking/http/HTTP Pipelining.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlipBox/Networking/Socket.md",
+                "file": "SlipBox/Networking/http/HTTP Pipelining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "4f92f9d4ad456950",
   "lastOpenFiles": [
+    "SlipBox/Networking/http/HTTP Pipelining.md",
+    "SlipBox/Networking/http/HTTP Header Last-Modified.md",
+    "Peticion HEAD.md",
+    "SlipBox/Networking/http/HTTP Header Connection.md",
+    "SlipBox/Networking/http/HTTP Header.md",
+    "SlipBox/Networking/Three way handshake.md",
+    "SlipBox/Networking/Round Trip Time.md",
+    "SlipBox/Networking/Varias conexiones simultaneas a un mismo host.md",
     "SlipBox/Networking/Socket.md",
-    "Network Application.md",
-    "Untitled 1.md",
-    "Application Port.md",
-    "Untitled.md",
-    "SlipBox/Spring/Java Bean.md",
-    "SlipBox/Spring/Spring Contenedor IoC.md",
-    "SlipBox/Spring/Spring Application Context.md",
-    "SlipBox/Spring/DispatcherServlet.md",
-    "SlipBox/Spring/Anotacion Scheduled.md"
+    "SlipBox/Networking/http/HTTP Conexiones persistidas.md"
   ]
 }
