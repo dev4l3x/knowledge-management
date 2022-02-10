@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SlipBox/Networking/http/HTTP Pipelining.md",
+            "file": "Cabecera HTTP If-modified-since.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6920a6980f571293",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlipBox/Networking/http/HTTP Pipelining.md",
+                "file": "Cabecera HTTP If-modified-since.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "4f92f9d4ad456950",
   "lastOpenFiles": [
+    "Cabecera HTTP If-modified-since.md",
+    "SlipBox/Networking/Estado en peticiones HTTP.md",
+    "SlipBox/Networking/Protocolo sin estado.md",
+    "SlipBox/Networking/Escalabilidad de protocolos sin estado vs con estado.md",
+    "SlipBox/Networking/Protocolo con estado.md",
+    "Ley de Demeter.md",
+    "SlipBox/Networking/Cookie.md",
     "SlipBox/Networking/http/HTTP Pipelining.md",
     "SlipBox/Networking/http/HTTP Header Last-Modified.md",
-    "Peticion HEAD.md",
-    "SlipBox/Networking/http/HTTP Header Connection.md",
-    "SlipBox/Networking/http/HTTP Header.md",
-    "SlipBox/Networking/Three way handshake.md",
-    "SlipBox/Networking/Round Trip Time.md",
-    "SlipBox/Networking/Varias conexiones simultaneas a un mismo host.md",
-    "SlipBox/Networking/Socket.md",
-    "SlipBox/Networking/http/HTTP Conexiones persistidas.md"
+    "SlipBox/Networking/Peticion HEAD.md"
   ]
 }
