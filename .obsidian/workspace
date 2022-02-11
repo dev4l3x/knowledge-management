@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cabecera HTTP If-modified-since.md",
+            "file": "SlipBox/Networking/email/Protocolo SMTP.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6920a6980f571293",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cabecera HTTP If-modified-since.md",
+                "file": "SlipBox/Networking/email/Protocolo SMTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "4f92f9d4ad456950",
   "lastOpenFiles": [
-    "Cabecera HTTP If-modified-since.md",
+    "SlipBox/Networking/email/Protocolo SMTP.md",
+    "SlipBox/Networking/email/Flujo de envio de un correo.md",
+    "SlipBox/Networking/email/Protocolo IMAP.md",
+    "SlipBox/Networking/email/Protocolo POP3.md",
+    "SlipBox/Networking/http/Cabecera HTTP If-modified-since.md",
     "SlipBox/Networking/Estado en peticiones HTTP.md",
     "SlipBox/Networking/Protocolo sin estado.md",
     "SlipBox/Networking/Escalabilidad de protocolos sin estado vs con estado.md",
     "SlipBox/Networking/Protocolo con estado.md",
-    "Ley de Demeter.md",
-    "SlipBox/Networking/Cookie.md",
-    "SlipBox/Networking/http/HTTP Pipelining.md",
-    "SlipBox/Networking/http/HTTP Header Last-Modified.md",
-    "SlipBox/Networking/Peticion HEAD.md"
+    "Ley de Demeter.md"
   ]
 }
