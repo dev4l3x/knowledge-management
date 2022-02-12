@@ -7,11 +7,8 @@
         "id": "4f92f9d4ad456950",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SlipBox/Networking/dns/Servidor DNS Local.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlipBox/Networking/dns/Servidor DNS Local.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "4f92f9d4ad456950",
   "lastOpenFiles": [
+    "Untitled.md",
+    "SlipBox/Networking/cdn/CDN.md",
+    "SlipBox/Networking/cdn/Bring Home CDN.md",
+    "SlipBox/Networking/cdn/Enter Deep CDN.md",
+    "SlipBox/Networking/http/Protocolo DASH.md",
+    "Cluster.md",
+    "SlipBox/Networking/IXP.md",
     "SlipBox/Networking/dns/Servidor DNS Local.md",
     "SlipBox/Networking/dns/Flujo de una peticion DNS.md",
-    "SlipBox/Networking/dns/Record DNS.md",
-    "SlipBox/Networking/dns/Record DNS MX.md",
-    "SlipBox/Networking/dns/Record DNS Cname.md",
-    "SlipBox/Networking/dns/Record DNS NS.md",
-    "SlipBox/Networking/dns/Record DNS A.md",
-    "SlipBox/Networking/dns/Servidor DNS Authoritative.md",
-    "SlipBox/Networking/dns/Servidor DNS TLD.md",
-    "SlipBox/Networking/dns/Servidor DNS Root.md"
+    "SlipBox/Networking/dns/Record DNS.md"
   ]
 }
