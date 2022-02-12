@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SlipBox/Networking/email/Protocolo SMTP.md",
+            "file": "SlipBox/Networking/dns/Servidor DNS Local.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlipBox/Networking/email/Protocolo SMTP.md",
+                "file": "SlipBox/Networking/dns/Servidor DNS Local.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "4f92f9d4ad456950",
   "lastOpenFiles": [
-    "SlipBox/Networking/email/Protocolo SMTP.md",
-    "SlipBox/Networking/email/Flujo de envio de un correo.md",
-    "SlipBox/Networking/email/Protocolo IMAP.md",
-    "SlipBox/Networking/email/Protocolo POP3.md",
-    "SlipBox/Networking/http/Cabecera HTTP If-modified-since.md",
-    "SlipBox/Networking/Estado en peticiones HTTP.md",
-    "SlipBox/Networking/Protocolo sin estado.md",
-    "SlipBox/Networking/Escalabilidad de protocolos sin estado vs con estado.md",
-    "SlipBox/Networking/Protocolo con estado.md",
-    "Ley de Demeter.md"
+    "SlipBox/Networking/dns/Servidor DNS Local.md",
+    "SlipBox/Networking/dns/Flujo de una peticion DNS.md",
+    "SlipBox/Networking/dns/Record DNS.md",
+    "SlipBox/Networking/dns/Record DNS MX.md",
+    "SlipBox/Networking/dns/Record DNS Cname.md",
+    "SlipBox/Networking/dns/Record DNS NS.md",
+    "SlipBox/Networking/dns/Record DNS A.md",
+    "SlipBox/Networking/dns/Servidor DNS Authoritative.md",
+    "SlipBox/Networking/dns/Servidor DNS TLD.md",
+    "SlipBox/Networking/dns/Servidor DNS Root.md"
   ]
 }
