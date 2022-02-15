@@ -7,8 +7,11 @@
         "id": "4f92f9d4ad456950",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SlipBox/designing data-intesive applications/Reliable, Scalable and Maintenable/Evolvabilidad de un sistema.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SlipBox/designing data-intesive applications/Reliable, Scalable and Maintenable/Evolvabilidad de un sistema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "4f92f9d4ad456950",
   "lastOpenFiles": [
-    "Untitled.md",
-    "SlipBox/Networking/cdn/CDN.md",
-    "SlipBox/Networking/cdn/Bring Home CDN.md",
-    "SlipBox/Networking/cdn/Enter Deep CDN.md",
-    "SlipBox/Networking/http/Protocolo DASH.md",
-    "Cluster.md",
-    "SlipBox/Networking/IXP.md",
-    "SlipBox/Networking/dns/Servidor DNS Local.md",
-    "SlipBox/Networking/dns/Flujo de una peticion DNS.md",
-    "SlipBox/Networking/dns/Record DNS.md"
+    "SlipBox/designing data-intesive applications/Reliable, Scalable and Maintenable/Evolvabilidad de un sistema.md",
+    "SlipBox/designing data-intesive applications/Reliable, Scalable and Maintenable/Complejidad accidental.md",
+    "SlipBox/designing data-intesive applications/Reliable, Scalable and Maintenable/Mantenibilidad.md",
+    "SlipBox/designing data-intesive applications/Reliable, Scalable and Maintenable/Simplicidad de un sistema.md",
+    "SlipBox/designing data-intesive applications/Reliable, Scalable and Maintenable/Operabilidad de un sistema.md",
+    "Ley de Demeter.md",
+    "SlipBox/designing data-intesive applications/Reliable, Scalable and Maintenable/Como sobrevibir a un incremento en la carga.md",
+    "SlipBox/designing data-intesive applications/Reliable, Scalable and Maintenable/Sistemas elasticos.md",
+    "SlipBox/designing data-intesive applications/Reliable, Scalable and Maintenable/Tail latency amplification.md",
+    "SlipBox/designing data-intesive applications/Reliable, Scalable and Maintenable/Medir la escalabilidad de un sistema.md"
   ]
 }
