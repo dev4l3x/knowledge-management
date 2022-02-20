@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SlipBox/designing data-intesive applications/Reliable, Scalable and Maintenable/Evolvabilidad de un sistema.md",
+            "file": "SlipBox/designing data-intesive applications/data models and query languages/Programación declarativa.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6920a6980f571293",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlipBox/designing data-intesive applications/Reliable, Scalable and Maintenable/Evolvabilidad de un sistema.md",
+                "file": "SlipBox/designing data-intesive applications/data models and query languages/Programación declarativa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "4f92f9d4ad456950",
   "lastOpenFiles": [
-    "SlipBox/designing data-intesive applications/Reliable, Scalable and Maintenable/Evolvabilidad de un sistema.md",
-    "SlipBox/designing data-intesive applications/Reliable, Scalable and Maintenable/Complejidad accidental.md",
-    "SlipBox/designing data-intesive applications/Reliable, Scalable and Maintenable/Mantenibilidad.md",
-    "SlipBox/designing data-intesive applications/Reliable, Scalable and Maintenable/Simplicidad de un sistema.md",
-    "SlipBox/designing data-intesive applications/Reliable, Scalable and Maintenable/Operabilidad de un sistema.md",
-    "Ley de Demeter.md",
-    "SlipBox/designing data-intesive applications/Reliable, Scalable and Maintenable/Como sobrevibir a un incremento en la carga.md",
-    "SlipBox/designing data-intesive applications/Reliable, Scalable and Maintenable/Sistemas elasticos.md",
-    "SlipBox/designing data-intesive applications/Reliable, Scalable and Maintenable/Tail latency amplification.md",
-    "SlipBox/designing data-intesive applications/Reliable, Scalable and Maintenable/Medir la escalabilidad de un sistema.md"
+    "SlipBox/designing data-intesive applications/data models and query languages/Programación declarativa.md",
+    "SlipBox/designing data-intesive applications/data models and query languages/Triple Stores.md",
+    "SlipBox/designing data-intesive applications/data models and query languages/Cypher Query Language.md",
+    "SlipBox/designing data-intesive applications/data models and query languages/Datalog.md",
+    "SlipBox/designing data-intesive applications/data models and query languages/Property Graphs.md",
+    "SlipBox/designing data-intesive applications/data models and query languages/Graph Database.md",
+    "SlipBox/designing data-intesive applications/data models and query languages/Programación imperativa.md",
+    "¿Mantener datos juntos o separados?.md",
+    "SlipBox/designing data-intesive applications/data models and query languages/Localidad de los datos.md",
+    "SlipBox/designing data-intesive applications/data models and query languages/Ventajas NoSQL frente a relacional.md"
   ]
 }
