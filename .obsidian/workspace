@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SlipBox/designing data-intesive applications/data models and query languages/Programación declarativa.md",
+            "file": "Ventajas bases de datos Graph vs relacionales.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlipBox/designing data-intesive applications/data models and query languages/Programación declarativa.md",
+                "file": "Ventajas bases de datos Graph vs relacionales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "4f92f9d4ad456950",
   "lastOpenFiles": [
+    "Ventajas bases de datos Graph vs relacionales.md",
     "SlipBox/designing data-intesive applications/data models and query languages/Programación declarativa.md",
     "SlipBox/designing data-intesive applications/data models and query languages/Triple Stores.md",
     "SlipBox/designing data-intesive applications/data models and query languages/Cypher Query Language.md",
@@ -97,7 +98,6 @@
     "SlipBox/designing data-intesive applications/data models and query languages/Graph Database.md",
     "SlipBox/designing data-intesive applications/data models and query languages/Programación imperativa.md",
     "¿Mantener datos juntos o separados?.md",
-    "SlipBox/designing data-intesive applications/data models and query languages/Localidad de los datos.md",
-    "SlipBox/designing data-intesive applications/data models and query languages/Ventajas NoSQL frente a relacional.md"
+    "SlipBox/designing data-intesive applications/data models and query languages/Localidad de los datos.md"
   ]
 }
