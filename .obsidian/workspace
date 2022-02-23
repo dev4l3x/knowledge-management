@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ventajas bases de datos Graph vs relacionales.md",
+            "file": "LSM Tree.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ventajas bases de datos Graph vs relacionales.md",
+                "file": "LSM Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "4f92f9d4ad456950",
   "lastOpenFiles": [
-    "Ventajas bases de datos Graph vs relacionales.md",
+    "LSM Tree.md",
+    "SSTables.md",
+    "Hash Index en DB.md",
+    "Append Only.md",
+    "¿Que es un Índice en DB?.md",
+    "SlipBox/designing data-intesive applications/data models and query languages/Ventajas bases de datos Graph vs relacionales.md",
     "SlipBox/designing data-intesive applications/data models and query languages/Programación declarativa.md",
     "SlipBox/designing data-intesive applications/data models and query languages/Triple Stores.md",
     "SlipBox/designing data-intesive applications/data models and query languages/Cypher Query Language.md",
-    "SlipBox/designing data-intesive applications/data models and query languages/Datalog.md",
-    "SlipBox/designing data-intesive applications/data models and query languages/Property Graphs.md",
-    "SlipBox/designing data-intesive applications/data models and query languages/Graph Database.md",
-    "SlipBox/designing data-intesive applications/data models and query languages/Programación imperativa.md",
-    "¿Mantener datos juntos o separados?.md",
-    "SlipBox/designing data-intesive applications/data models and query languages/Localidad de los datos.md"
+    "SlipBox/designing data-intesive applications/data models and query languages/Datalog.md"
   ]
 }
