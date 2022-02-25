@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LSM Tree.md",
+            "file": "SlipBox/designing data-intesive applications/storage and retrieval/SSTables.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6920a6980f571293",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LSM Tree.md",
+                "file": "SlipBox/designing data-intesive applications/storage and retrieval/SSTables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "4f92f9d4ad456950",
   "lastOpenFiles": [
-    "LSM Tree.md",
-    "SSTables.md",
-    "Hash Index en DB.md",
-    "Append Only.md",
-    "¿Que es un Índice en DB?.md",
-    "SlipBox/designing data-intesive applications/data models and query languages/Ventajas bases de datos Graph vs relacionales.md",
-    "SlipBox/designing data-intesive applications/data models and query languages/Programación declarativa.md",
-    "SlipBox/designing data-intesive applications/data models and query languages/Triple Stores.md",
-    "SlipBox/designing data-intesive applications/data models and query languages/Cypher Query Language.md",
-    "SlipBox/designing data-intesive applications/data models and query languages/Datalog.md"
+    "SlipBox/designing data-intesive applications/storage and retrieval/SSTables.md",
+    "SlipBox/designing data-intesive applications/storage and retrieval/Data Warehouse.md",
+    "SlipBox/designing data-intesive applications/storage and retrieval/OLAP (Online Analytics Processing).md",
+    "SlipBox/designing data-intesive applications/storage and retrieval/OLTP (Online Transaction Processing).md",
+    "SlipBox/designing data-intesive applications/storage and retrieval/RTree.md",
+    "SlipBox/designing data-intesive applications/storage and retrieval/¿Que pasa la insertar en un nodo hoja lleno en un BTree?.md",
+    "SlipBox/designing data-intesive applications/storage and retrieval/¿Como mantiene consistencia el BTree?.md",
+    "SlipBox/designing data-intesive applications/storage and retrieval/Branching Factor en Btree.md",
+    "SlipBox/designing data-intesive applications/storage and retrieval/BTree.md",
+    "SlipBox/designing data-intesive applications/storage and retrieval/LSM Tree.md"
   ]
 }
