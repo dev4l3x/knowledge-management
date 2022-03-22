@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SlipBox/designing data-intesive applications/storage and retrieval/SSTables.md",
+            "file": "SlipBox/designing data-intesive applications/replication/Replication.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlipBox/designing data-intesive applications/storage and retrieval/SSTables.md",
+                "file": "SlipBox/designing data-intesive applications/replication/Replication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "4f92f9d4ad456950",
   "lastOpenFiles": [
-    "SlipBox/designing data-intesive applications/storage and retrieval/SSTables.md",
-    "SlipBox/designing data-intesive applications/storage and retrieval/Data Warehouse.md",
-    "SlipBox/designing data-intesive applications/storage and retrieval/OLAP (Online Analytics Processing).md",
-    "SlipBox/designing data-intesive applications/storage and retrieval/OLTP (Online Transaction Processing).md",
-    "SlipBox/designing data-intesive applications/storage and retrieval/RTree.md",
-    "SlipBox/designing data-intesive applications/storage and retrieval/¿Que pasa la insertar en un nodo hoja lleno en un BTree?.md",
-    "SlipBox/designing data-intesive applications/storage and retrieval/¿Como mantiene consistencia el BTree?.md",
-    "SlipBox/designing data-intesive applications/storage and retrieval/Branching Factor en Btree.md",
-    "SlipBox/designing data-intesive applications/storage and retrieval/BTree.md",
-    "SlipBox/designing data-intesive applications/storage and retrieval/LSM Tree.md"
+    "SlipBox/designing data-intesive applications/replication/Replication.md",
+    "Untitled.md",
+    "SlipBox/designing data-intesive applications/replication/Leaderless replication.md",
+    "SlipBox/designing data-intesive applications/replication/Multileader replication.md",
+    "SlipBox/designing data-intesive applications/replication/Leader based replication.md",
+    "SlipBox/designing data-intesive applications/encoding and evolution/Textual Encoding.md",
+    "SlipBox/designing data-intesive applications/encoding and evolution/Binary Encoding.md",
+    "SlipBox/designing data-intesive applications/encoding and evolution/Avro vs Protocol Buffers.md",
+    "SlipBox/designing data-intesive applications/encoding and evolution/Encoding propietarios de lenguajes de programación.md",
+    "SlipBox/designing data-intesive applications/encoding and evolution/Encoding.md"
   ]
 }
