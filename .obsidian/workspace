@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SlipBox/designing data-intesive applications/transactions/Atomicity.md",
+            "file": "SlipBox/ddd/Anticorruption Layer.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlipBox/designing data-intesive applications/transactions/Atomicity.md",
+                "file": "SlipBox/ddd/Anticorruption Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "4f92f9d4ad456950",
   "lastOpenFiles": [
-    "SlipBox/designing data-intesive applications/transactions/Atomicity.md",
-    "SlipBox/designing data-intesive applications/transactions/Serializable Snapshot Isolation (SSI).md",
-    "SlipBox/designing data-intesive applications/transactions/Optimistic Locking.md",
-    "SlipBox/designing data-intesive applications/transactions/Pessimistic Locking.md",
-    "SlipBox/designing data-intesive applications/transactions/Two Phase Locking (2PL).md",
-    "SlipBox/designing data-intesive applications/transactions/Serial Execution.md",
-    "SlipBox/designing data-intesive applications/transactions/Serializable Isolation.md",
-    "SlipBox/designing data-intesive applications/transactions/Snapshot Isolation Level.md",
-    "SlipBox/designing data-intesive applications/transactions/Write Skew.md",
-    "SlipBox/designing data-intesive applications/transactions/Lost update problem.md"
+    "SlipBox/ddd/Anticorruption Layer.md",
+    "SlipBox/ddd/Separate Ways.md",
+    "SlipBox/ddd/Conformist.md",
+    "SlipBox/ddd/Open Host Service.md",
+    "SlipBox/ddd/Comunicación entre Bounded Context.md",
+    "SlipBox/ddd/Customer-Supplier.md",
+    "SlipBox/ddd/Shared Kernel.md",
+    "SlipBox/ddd/Partnership.md",
+    "SlipBox/ddd/Bounded Context.md",
+    "SlipBox/designing data-intesive applications/transactions/Atomicity.md"
   ]
 }
