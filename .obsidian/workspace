@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SlipBox/ddd/Anticorruption Layer.md",
+            "file": "SlipBox/ddd/Entity (DDD).md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlipBox/ddd/Anticorruption Layer.md",
+                "file": "SlipBox/ddd/Entity (DDD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "4f92f9d4ad456950",
   "lastOpenFiles": [
+    "SlipBox/ddd/Entity (DDD).md",
+    "SlipBox/ddd/Domain Events (DDD).md",
+    "SlipBox/ddd/Aggregate Root.md",
+    "SlipBox/ddd/Aggregates (DDD).md",
+    "SlipBox/ddd/Value Object.md",
     "SlipBox/ddd/Anticorruption Layer.md",
     "SlipBox/ddd/Separate Ways.md",
     "SlipBox/ddd/Conformist.md",
     "SlipBox/ddd/Open Host Service.md",
-    "SlipBox/ddd/Comunicación entre Bounded Context.md",
-    "SlipBox/ddd/Customer-Supplier.md",
-    "SlipBox/ddd/Shared Kernel.md",
-    "SlipBox/ddd/Partnership.md",
-    "SlipBox/ddd/Bounded Context.md",
-    "SlipBox/designing data-intesive applications/transactions/Atomicity.md"
+    "SlipBox/ddd/Comunicación entre Bounded Context.md"
   ]
 }
